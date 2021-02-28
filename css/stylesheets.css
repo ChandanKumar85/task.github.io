@@ -1024,7 +1024,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#009b24', end
   .owl-carousel .owl-prev span { background-position: -7px -99px;}
 
   .flex-res.fourth-sec {flex-direction: column; align-items: center;}
-  .flex-res.fourth-sec .rate-box {  max-width: 290px; }
+  .flex-res.fourth-sec .rate-box {  width: 290px; }
   .flex-res.fourth-sec .pagination-bx { width: 100%; max-width: 300px; margin-top: 40px; }
   .pagination li {margin: 0 3px;}
   .pagination li a {height: 30px; width: 30px;}
